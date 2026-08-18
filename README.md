@@ -199,7 +199,3 @@ The final repository will include references to the original Restormer and HAT r
 ---
 
 ## Team Rayleon
-
-**Two-stage transformer restoration for degraded semiconductor inspection images.**
-
-**Restormer for restoration → HAT-L for super-resolution → High-quality HR output**
