@@ -1,1 +1,39 @@
+# Core numerical libraries
 
+numpy
+scipy
+matplotlib
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+h5py
+
+# Utilities
+
+tqdm
+joblib
+natsort
+requests
+PyYAML
+yacs
+addict
+future
+gdown
+lmdb
+
+# Deep-learning utilities
+
+einops
+lpips
+yapf
+tb-nightly
+
+# PyTorch
+
+torch
+torchvision
+
+# Image Restoration Framework
+
+basicsr==1.3.4.9
