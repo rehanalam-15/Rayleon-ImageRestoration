@@ -190,12 +190,3 @@ The proposed approach is based on transformer-based image restoration and super-
 
 The project focuses on restoring degraded inspection imagery while retaining **structural and defect-related information** that may be lost because of noise or limited spatial resolution.
 
----
-
-# References
-
-The final repository will include references to the original Restormer and HAT research implementations and any other datasets, tools, or papers used during development.
-
----
-
-## Team Rayleon
